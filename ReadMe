@@ -11,3 +11,6 @@ rails is a mvc architecture- Model View Controller
 
 Mainly work in the app, config, db.
 Need to break out of server to run other commands in the terminal.
+
+generators- it does all of the work for us. creates controllers and much more files [rails g]
+    rails g controller home index. - creates a home controller for web page in app/controllers
