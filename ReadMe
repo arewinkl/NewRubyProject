@@ -5,14 +5,16 @@ rails new friends - creates a new rails project thats name is friends.
 rais s - starts up the rails server.
 
 rails is a mvc architecture- Model View Controller
-        Models- are databases
-        Views- are our webpages
-        Controller- The brains behind everything.
+Models- are databases
+Views- are our webpages
+Controller- The brains behind everything.
 
 Mainly work in the app, config, db.
 Need to break out of server to run other commands in the terminal.
 
 generators- it does all of the work for us. creates controllers and much more files [rails g]
-    rails g controller home index. - creates a home controller for web page in app/controllers
+rails g controller home index. - creates a home controller for web page in app/controllers
 
 railse routes - will let you print all of your routes to the console. essentially rakes all the routes so that you can see them.
+
+<% %> most embeded tags in ruby look like this. if you dont want it to render onto the page don't have a = in the tag and add an = if you do want it to render and add word render.
