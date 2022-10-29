@@ -3,3 +3,8 @@ CRUD application
 rails new friends - creates a new rails project thats name is friends.
 
 rais s - starts up the rails server.
+
+rails is a mvc architecture- Model View Controller
+        Models- are databases
+        Views- are our webpages
+        Controller- The brains behind everything.
