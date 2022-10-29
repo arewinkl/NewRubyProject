@@ -1,3 +1,5 @@
 CRUD application
 
 rails new friends - creates a new rails project thats name is friends.
+
+rais s - starts up the rails server.
