@@ -36,3 +36,5 @@ supported data types:
 .text
 .time
 .timestamp
+
+rails db:migrate - creates a schema that pushes the migration into the database.
