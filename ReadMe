@@ -22,3 +22,17 @@ railse routes - will let you print all of your routes to the console. essentiall
 <% %> most embeded tags in ruby look like this. if you dont want it to render onto the page don't have a = in the tag and add an = if you do want it to render and add word render.
 
 rails g scaffold -creates everything needed for building database
+
+supported data types:
+.binary
+.boolean
+.date
+.datetime
+.decimal
+.float
+.integer
+.primary_key
+.string
+.text
+.time
+.timestamp
