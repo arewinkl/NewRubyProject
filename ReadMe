@@ -1,4 +1,5 @@
 CRUD application
+-Ruby application
 
 rails new friends - creates a new rails project thats name is friends.
 
