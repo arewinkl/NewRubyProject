@@ -40,3 +40,5 @@ supported data types:
 rails db:migrate - creates a schema that pushes the migration into the database.
 
 _working on building tables in ruby and messing around with styling and links is good practice_
+
+\_Problem with the sign up page, it throws an error and will not work, throwwing a 201 and 401 error. problem with servisworker.js [installed that, and still having problems (possibly new ones)]. work to fix next time before moving forward.
